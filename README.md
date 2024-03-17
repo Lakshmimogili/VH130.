@@ -11,6 +11,14 @@ TEAM DETAILS
  One of the biggest issues facing the globe today is solid waste management. If waste is not properly collected, stored, and disposed of, it can endanger human health and the environment.
  Tons of solid waste are disposed of at landfills every day. These pollutants originate from a variety of locations, including schools, office buildings, factories, construction sites, and demolition operations.
 
+ OBJECTIVES OF THE PROJECT :
+* Our micro project's primary goal is to maintain our health.
+* We can do this by keeping our surroundings tidy and free of insects.
+*  Thus, we have created a smart garbage that will instantly sound an alert to employees to maintain the area clean. Afterwards, there will be a decreased chance of contracting an insect infection and an improved quality of life.
+
+
+
+
  6.CODE :
 #define Trigpin 7 
 #define Echopin 8 
